@@ -125,7 +125,7 @@ return (
 </div>
 <div className='space-y-2'>
 <h2 className='text-4xl text-center text-c3 md:text-5xl text-[#556b2f] font-black'>01.28 - 01.29</h2>
-<h2 className='text-3xl text-center text-c3 md:text-[40px] text-[#556b2f] font-black'>@Willis Library (UNT)</h2>
+<h2 className='text-3xl text-center text-c3 md:text-[40px] text-[#1c4026] font-black'>@Willis Library (UNT)</h2>
 </div>
 </div>
 {/*duck image*/}
