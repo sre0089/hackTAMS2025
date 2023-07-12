@@ -13,11 +13,11 @@ import {DISCORD_LINK, REGISTRATION_LINK, INSTAGRAM_LINK, MLH_CODE_OF_CONDUCT_LIN
 
 import {useState, useEffect} from 'react'
 import Image from 'next/image'
-import cabinDuck from '../public/images/explorertreeduck.PNG'
-import introDuck from '../public/images/introDuckJungle.png'
+import cabinDuck from '../public/images/explorertreeduck.png'
+import introDuck from '../public/images/introDuckJungle.PNG'
 import hacktams from '../public/images/hacktams2024collage.png'
 import penguinDuck from '../public/images/dinoDuck.PNG'
-import penguinDuckM from '../public/images/dinoDuckMirror.png'
+import penguinDuckM from '../public/images/dinoDuckMirror.PNG'
 import navDuckBtwn from '../public/images/navDuckBtwn.png'
 import workshops from '../public/images/workshops.PNG'
 import guest_speaker1 from '../public/images/GuestSpeaker1.PNG'
@@ -142,7 +142,7 @@ return (
 <div className='flex flex-col-reverse m-auto justify-around my-6 lg:flex-row lg:space-x-8 lg:my-8 lg:w-2/3'>
 {/*image*/}
 <div className='max-w-sm mt-12 mx-auto px-6 lg:px-0 lg:my-auto'>
-<Image src={hacktams} className='rounded-xl'/>
+<Image src={hacktams} className='rounded-xl' alt='picture from hacktams 2021'/>
 </div>
 {/*words*/}
 <div className='max-w-xl px-4 my-auto mx-auto'>
