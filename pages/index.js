@@ -142,7 +142,7 @@ return (
 <div className='flex flex-col-reverse m-auto justify-around my-6 lg:flex-row lg:space-x-8 lg:my-8 lg:w-2/3'>
 {/*image*/}
 <div className='max-w-sm mt-12 mx-auto px-6 lg:px-0 lg:my-auto'>
-<Image src={hacktams} className='rounded-xl'>
+<Image src={hacktams} className='rounded-xl'/>
 </div>
 {/*words*/}
 <div className='max-w-xl px-4 my-auto mx-auto'>
