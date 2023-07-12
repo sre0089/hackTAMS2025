@@ -46,9 +46,7 @@ function NavBarPage(props) {
                 </div>
             </div>)}
 
-            <div className="max-w-[80px] min-w-[60px] fixed z-20 left-12 lg:max-w-[120px] lg:left-32">
-                <Image src={mlhTrustBadgeGrey} alt="Major League Hacking 2023 Hackathon Season Banner"/>
-            </div>
+            
         </nav>
     )
 }
