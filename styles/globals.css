@@ -16,10 +16,38 @@ body {
   margin: 0;
 }
 
+.image_one {
+  background-image: url('../backgrounds/intro_cropfirst2.jpg');
+  width:1348px;
+  height:1451px;
+  background-repeat: no-repeat
+}
+/*
+.image_two {
+  background-image: url('../backgrounds/aboutBgadjusted.jpeg');
+  width:100%;
+  height:869px;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+*/
 a {
   color: inherit;
   text-decoration: none;
 }
+h1 {
+	color: #556b2f;
+}
+h4 {
+	color: #FFF;
+}
+
+.workshop-background {
+	background-color: white;
+  }
+  
 
 .faqs {
 	width: 100%;
