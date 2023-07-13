@@ -15,7 +15,6 @@ import {useState, useEffect} from 'react'
 import Image from 'next/image'
 import cabinDuck from '../public/images/explorertreeduck.PNG'
 import introDuck from '../public/images/introDuckJungle.png'
-import hacktams from '../public/images/hacktams2024collage.png'
 import penguinDuck from '../public/images/dinoDuck.PNG'
 import penguinDuckM from '../public/images/dinoDuckMirror.png'
 import navDuckBtwn from '../public/images/navDuckBtwn.png'
@@ -142,7 +141,7 @@ return (
 <div className='flex flex-col-reverse m-auto justify-around my-6 lg:flex-row lg:space-x-8 lg:my-8 lg:w-2/3'>
 {/*image*/}
 <div className='max-w-sm mt-12 mx-auto px-6 lg:px-0 lg:my-auto'>
-<Image src={hacktams} className='rounded-xl'/>
+<Image src={"../public/images/hacktams2024collage.png"} className='rounded-xl'/>
 </div>
 {/*words*/}
 <div className='max-w-xl px-4 my-auto mx-auto'>
