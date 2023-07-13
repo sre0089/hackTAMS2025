@@ -22,7 +22,7 @@ import workshops from '../public/images/workshops.PNG'
 import guest_speaker1 from '../public/images/GuestSpeaker1.PNG'
 import college from '../public/images/CollegePanels.PNG'
 import fun_activities from '../public/images/FunActivities.PNG'
-import hacktams from '../public/images/hacktams2024collage.png'
+import hacktams from '../public/images/hacktams2024collage2.png'
 
 
 import hackplus from '../public/sponsors/hackplus.svg'
