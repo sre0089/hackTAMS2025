@@ -22,6 +22,7 @@ import workshops from '../public/images/workshops.PNG'
 import guest_speaker1 from '../public/images/GuestSpeaker1.PNG'
 import college from '../public/images/CollegePanels.PNG'
 import fun_activities from '../public/images/FunActivities.PNG'
+import hacktams from '../public/images/hacktams2024collage.png'
 
 
 import hackplus from '../public/sponsors/hackplus.svg'
@@ -141,8 +142,7 @@ return (
 <div className='flex flex-col-reverse m-auto justify-around my-6 lg:flex-row lg:space-x-8 lg:my-8 lg:w-2/3'>
 {/*image*/}
 <div className='max-w-sm mt-12 mx-auto px-6 lg:px-0 lg:my-auto'>
-<Image src={"../public/images/hacktams2024collage.png"} className='rounded-xl'/>
-</div>
+<Image src={hacktams} className='rounded-xl'/></div>
 {/*words*/}
 <div className='max-w-xl px-4 my-auto mx-auto'>
 <h4 className='text-xl text-center lg:text-justify'>hackTAMS is the annual hackathon organized by students at the Texas Academy of Mathematics and Science. A hackathon is a coding marathon where students design, build, and present a project - typically software and sometimes hardware - within a short period of time. Our event lets high school students from across Texas showcase their talent and creativity through coding projects and presentations. Students will have access to workshops, guest speakers, networking opportunities, and other fun and informative events while working on their projects.</h4>
