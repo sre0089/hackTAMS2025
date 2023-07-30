@@ -243,12 +243,16 @@ return (
 <h2 className='text-[#556b2f] font-bold text-6xl text-center'>sponsors</h2>
 {/*gold sponsors*/}
 <div className='grid justify-center'>
-Incoming!
+More incoming!
 </div>
 {/*bronze sponsors*/}
 
 {/*in-kind sponsors*/}
-
+<div className='grid justify-center'>
+              <div className='flex flex-wrap justify-evenly items-center lg:flex-row'>
+                <InKindSponsor image={wolframAlpha} link='https://www.wolframalpha.com'/>
+              </div>
+            </div>
 </div>
 </div>
 </div>
