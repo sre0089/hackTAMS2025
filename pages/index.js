@@ -124,7 +124,7 @@ return (
 <h1 className='font-bold text-center text-white text-6xl sm:text-7xl md:text-8xl lg:text-[120px]'>2024</h1>
 </div>
 <div className='space-y-2'>
-<h2 className='text-4xl text-center text-c3 md:text-5xl text-[#556b2f] font-black'>02.03 - 02.04</h2>
+<h2 className='text-4xl text-center text-c3 md:text-5xl text-[#556b2f] font-black'>01.27 - 01.28</h2>
 <h2 className='text-3xl text-center text-c3 md:text-[40px] text-[#1c4026] font-black'>@Willis Library (UNT)</h2>
 </div>
 </div>
@@ -154,8 +154,7 @@ return (
 <div className='flex color-white flex-col justify-center -mt-6 py-12 px-8 items-stretch lg:flex-row lg:space-x-10 lg:px-28'>
 <AboutItem title={'workshops'} img={workshops} description={'We will be offering workshops for hackers who want to expand their toolkit for project building. Ex: an Intro to Machine Learning workshop!'} className="workshop-background" />
 <AboutItem title={'guest speakers'} img={guest_speaker1} description={'We will be inviting multiple distinguished figures from the tech industry to come and speak at hackTAMS. This event is meant to help hackers gain insight into what it\'s like working in the tech industry and how to get there. We will have speakers from Google, JP Morgan, UW, and UTD!'}/>
-<AboutItem title={'cs college panel'} img={college} description={'We will be inviting college admissions counselors to come and speak at hackTAMS. This event is meant to help hackers learn more about the college application process and what studying computer science is like in college. We will have representatives from Purdue, Texas A&M, SMU, Texas Tech, GWU, and UTA!'}/>
-<AboutItem title={'fun activities'} img={fun_activities} description={'In addition to the informative events, we will also be hosting various fun activities throughout the hackathon. For example, a cup-stacking and Just Dance tournament!'}/>
+<AboutItem title={'fun activities'} img={fun_activities} description={'In addition to the informative events, we will also be hosting various fun activities throughout the hackathon. For example, a cup-stacking, Just Dance, and Mario Kart tournament!'}/>
 </div>
 </div>
 
@@ -245,8 +244,21 @@ return (
 <div className='grid justify-center'>
 More incoming!
 </div>
+<div className='grid justify-center'>
+..
+</div>
+<div className='grid justify-center'>
+..
+</div>
+<div className='grid justify-center'>
+..
+</div>
 {/*bronze sponsors*/}
-
+<div className='grid justify-center -mt-20'>
+              <div className='flex flex-wrap justify-evenly items-center lg:flex-row'>
+                <BronzeSponsor image={stoke} link='https://stokedenton.com'/>
+              </div>
+            </div>
 {/*in-kind sponsors*/}
 <div className='grid justify-center'>
               <div className='flex flex-wrap justify-evenly items-center lg:flex-row'>
