@@ -263,6 +263,7 @@ More incoming!
 <div className='grid justify-center'>
               <div className='flex flex-wrap justify-evenly items-center lg:flex-row'>
                 <InKindSponsor image={wolframAlpha} link='https://www.wolframalpha.com'/>
+                <InKindSponsor image={voiceflow} link='https://www.voiceflow.com'/>
               </div>
             </div>
 </div>
