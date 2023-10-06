@@ -88,7 +88,7 @@ open: false
 },
 {
 question: 'when are the event logistics?',
-answer: 'Participants are welcome to join us at Willis Library from Saturday, January 27th at 1 pm until Sunday, January 28th at 3pm (Participants may leave beforehand if needed, but they must be picked up by 11 pm. Once participants sign out, they cannot check back in).',
+answer: 'Participants are welcome to join us at Willis Library from Saturday, January 27th at 1 pm until Sunday, January 28th at 3pm (Participants may leave beforehand if needed, but they must be picked up by 3 pm on January 28th. Once participants sign out, they cannot check back in).',
 open: false
 },
 {
