@@ -27,7 +27,7 @@ import hacktams from '../public/images/hacktams2024collage2.png'
 
 import hackplus from '../public/sponsors/hackplus.svg'
 import mlh from '../public/sponsors/mlh.svg'
-import taskade from '../public/sponsors/taskade.png'
+import interviewcake from '../public/sponsors/interviewcake.png'
 import scrimba from '../public/sponsors/scrimba.png'
 import standoutStickers from '../public/sponsors/standoutStickers.png'
 import wolframAlpha from '../public/sponsors/wolframAlpha.png'
@@ -264,6 +264,7 @@ More incoming!
               <div className='flex flex-wrap justify-evenly items-center lg:flex-row'>
                 <InKindSponsor image={wolframAlpha} link='https://www.wolframalpha.com'/>
                 <InKindSponsor image={voiceflow} link='https://www.voiceflow.com'/>
+                <InKindSponsor image={interviewcake} link='https://www.interviewcake.com'/>
               </div>
             </div>
 </div>
