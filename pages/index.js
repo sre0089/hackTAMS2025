@@ -235,6 +235,9 @@ return (
 <a href="https://hackplus.io" target='_blank' rel='noreferrer' className='hover:scale-105 m-auto w-[21rem] p-6'>
 <Image src={hackplus} alt="hackplus logo in partners section"/>
 </a>
+<a href="https://mlh.io" target="_blank" rel='noreferrer' className='hover:scale-105 m-auto w-72 p-6'>
+                <Image src={mlh} alt="mlh logo in partners section"/>
+              </a>
 </div>
 </div>
 {/*sponsors*/}
@@ -290,6 +293,13 @@ More incoming!
 {/*list container*/}
 <div className='flex flex-col justify-around space-y-6 md:space-y-0 md:flex-row md:space-x-32'>
 {/*mlh code of conduct*/}
+ <div className='flex flex-col space-y-6 text-white'>
+                    {/*donate*/}
+                    <div>
+                      <h3 className='text-c9 font-bold'>mlh</h3> 
+                      <a href={MLH_CODE_OF_CONDUCT_LINK} target='_blank' rel='noreferrer' className='text-[#7fa046] hover:text-white'>code of conduct</a>
+                    </div>
+                  </div>
 
 
 {/*register + donate*/}
