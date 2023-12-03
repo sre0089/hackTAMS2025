@@ -2,7 +2,7 @@ import {useState, useEffect} from 'react'
 import Hamburger from 'hamburger-react'
 import Image from 'next/image'
 import navDuck from '../public/images/navDuck.PNG'
-import mlhTrustBadgeGrey from '../public/images/mlh-trust-badge-2023-gray.svg'
+import mlhTrustBadgeGrey from '../public/images/mlh-trust-badge-2024-white.svg'
 import {REGISTRATION_LINK} from "../utils/constants";
 
 function NavBarPage(props) {
@@ -46,6 +46,9 @@ function NavBarPage(props) {
                 </div>
             </div>)}
 
+            <div className="max-w-[80px] min-w-[60px] fixed z-20 left-12 lg:max-w-[120px] lg:left-32">
+                <Image src={mlhTrustBadgeGrey} alt="Major League Hacking 2023 Hackathon Season Banner"/>
+            </div>
             
         </nav>
     )
