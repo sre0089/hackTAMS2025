@@ -265,6 +265,7 @@ More incoming!
 {/*in-kind sponsors*/}
 <div className='grid justify-center'>
               <div className='flex flex-wrap justify-evenly items-center lg:flex-row'>
+                <InKindSponsor image={standoutStickers} link='http://hackp.ac/mlh-StandOutStickers-hackathons'/>
                 <InKindSponsor image={wolframAlpha} link='https://www.wolframalpha.com'/>
                 <InKindSponsor image={voiceflow} link='https://www.voiceflow.com'/>
                 <InKindSponsor image={interviewcake} link='https://www.interviewcake.com'/>
