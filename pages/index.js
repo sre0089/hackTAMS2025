@@ -184,12 +184,12 @@ return (
 </div>
 {/*challenges*/}
 <div className='px-8 sm:px-20 md:px-24 grid grid-flow-col grid-cols-1 grid-rows-6 gap-6 lg:w-5/6 lg:grid-cols-3 lg:grid-rows-2 lg:mx-auto xl:mx-0 xl:w-2/3'>
-<ChallengeInfo chName={'1st Place - Hack'} chPar={'TBD'}/>
-<ChallengeInfo chName={'1st Place - Prototype'} chPar={'TBD'}/>
-<ChallengeInfo chName={'2nd Place - Hack'} chPar={'TBD'}/>
-<ChallengeInfo chName={'2nd Place - Prototype'} chPar={'TBD'}/>
-<ChallengeInfo chName={'3rd Place - Hack'} chPar={'TBD'}/>
-<ChallengeInfo chName={'Most Impactful - Overall'} chPar={'TBD'}/>
+<ChallengeInfo chName={'1st Place - Hack'} chPar={'Keychron Q2 QMK Custom Mechanical Keyboard'}/>
+<ChallengeInfo chName={'1st Place - Prototype'} chPar={'Apple AirTag'}/>
+<ChallengeInfo chName={'2nd Place - Hack'} chPar={'KODAK Printomatic Digital Instant Print Camera'}/>
+<ChallengeInfo chName={'Funniest - Prototype'} chPar={'Premium Lego Set'}/>
+<ChallengeInfo chName={'3rd Place - Hack'} chPar={'Mini Projector'}/>
+<ChallengeInfo chName={'Most Impactful - Overall'} chPar={'TI-Nspire CX II Graphing Calculator and TI-Innovator Hub'}/>
 </div>
 </div>
 </div>
