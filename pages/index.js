@@ -329,7 +329,7 @@ More incoming!
 {/*discord*/}
 <div>
 <h3 className='text-c9 font-bold'>discord server</h3>
-<a href={DISCORD_LINK} className='text-[#7fa046] hover:text-white' target='_blank' rel='noreferrer'>https://discord.gg/N2yeVfpC</a>
+<a href={DISCORD_LINK} className='text-[#7fa046] hover:text-white' target='_blank' rel='noreferrer'>https://discord.gg/D8cGkEeZqT</a>
 </div>
 {/*devpost*/}
 </div>
