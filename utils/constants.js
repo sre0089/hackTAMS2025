@@ -1,5 +1,5 @@
 export const REGISTRATION_LINK = "https://forms.gle/BV6k97a5FQqgyyxn9";
-export const DISCORD_LINK = "https://discord.gg/N2yeVfpC";
+export const DISCORD_LINK = "https://discord.gg/D8cGkEeZqT";
 export const INSTAGRAM_LINK = "https://www.instagram.com/hacktams/";
 export const MLH_CODE_OF_CONDUCT_LINK = "https://static.mlh.io/docs/mlh-code-of-conduct.pdf";
 export const DONATION_LINK = "https://secure.givelively.org/donate/hackplus/hacktams";
