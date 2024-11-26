@@ -121,7 +121,7 @@ return (
 <div>
 <h1 className='font-bold text-center text-white text-6xl sm:text-7xl md:text-8xl lg:text-[120px] md:pt-32'
 >hackTAMS</h1>
-<h1 className='font-bold text-center text-white text-6xl sm:text-7xl md:text-8xl lg:text-[120px]'>2024</h1>
+<h1 className='font-bold text-center text-white text-6xl sm:text-7xl md:text-8xl lg:text-[120px]'>2025</h1>
 </div>
 <div className='space-y-2'>
 <h2 className='text-4xl text-center text-c3 md:text-5xl text-[#556b2f] font-black'>01.27 - 01.28</h2>
