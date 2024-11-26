@@ -124,7 +124,7 @@ return (
 <h1 className='font-bold text-center text-white text-6xl sm:text-7xl md:text-8xl lg:text-[120px]'>2025</h1>
 </div>
 <div className='space-y-2'>
-<h2 className='text-4xl text-center text-c3 md:text-5xl text-[#556b2f] font-black'>01.27 - 01.28</h2>
+<h2 className='text-4xl text-center text-c3 md:text-5xl text-[#556b2f] font-black'>01.25 - 01.26</h2>
 <h2 className='text-3xl text-center text-c3 md:text-[40px] text-[#1c4026] font-black'>@Willis Library (UNT)</h2>
 </div>
 </div>
