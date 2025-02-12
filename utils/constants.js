@@ -1,4 +1,4 @@
-export const REGISTRATION_LINK = "https://forms.gle/BV6k97a5FQqgyyxn9";
+export const REGISTRATION_LINK = "https://docs.google.com/forms/d/e/1FAIpQLSeMz3L0UEczFZtN_ohGQ7eeVfTUN-cdCo7gxwiGFwKvlJ4nxQ/viewform?usp=dialoghttps://forms.gle/BV6k97a5FQqgyyxn9";
 export const DISCORD_LINK = "https://discord.gg/D8cGkEeZqT";
 export const INSTAGRAM_LINK = "https://www.instagram.com/hacktams/";
 export const MLH_CODE_OF_CONDUCT_LINK = "https://static.mlh.io/docs/mlh-code-of-conduct.pdf";
