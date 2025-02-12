@@ -235,9 +235,7 @@ return (
 <a href="https://hackplus.io" target='_blank' rel='noreferrer' className='hover:scale-105 m-auto w-[21rem] p-6'>
 <Image src={hackplus} alt="hackplus logo in partners section"/>
 </a>
-<a href="https://mlh.io" target="_blank" rel='noreferrer' className='hover:scale-105 m-auto w-72 p-6'>
-                <Image src={mlh} alt="mlh logo in partners section"/>
-              </a>
+
 </div>
 </div>
 {/*sponsors*/}
